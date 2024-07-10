@@ -38,3 +38,5 @@ El proyecto se entregará en un Jupyter Notebook (.ipynb) que incluirá:
 - Modelos de Machine Learning implementados y evaluados.
 - Resultados y conclusiones claras.
 
+ [Ver Jupyter Notebook](https://github.com/psm545/Modelo-de-ML-Clinico-M6/blob/main/Proyecto%20Integrador%20M6%20ML.ipynb).
+
